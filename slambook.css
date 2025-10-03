@@ -1,0 +1,14 @@
+.form1 {
+    background-color: lightskyblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 5px solid cornflowerblue;
+    padding-top: 10px; 
+    text-align: center;
+    padding: 10px;
+}
+legend {
+     margin: 0 auto; 
+} 
+button {
+text-align: center;
+}
